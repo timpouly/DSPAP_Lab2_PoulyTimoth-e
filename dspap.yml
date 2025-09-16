@@ -1,4 +1,4 @@
-#create with: conda env create -f dspap.yml
+#create with: conda env create -f dspap.yml (be bbb)
 name: dspap
 channels:
   - conda-forge
